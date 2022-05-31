@@ -7,7 +7,7 @@
 1-run_inline: A shell script that runs Python code.
 
 ## TASK 2: Hello, print
-2-print.py: A Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+2-print.py: A Python script that prints exactly `"Programming is like building a multilingual puzzle"`, followed by a new line.
 
 
 ## TASK 3: Print integer
